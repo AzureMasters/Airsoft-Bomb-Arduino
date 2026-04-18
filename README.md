@@ -3,7 +3,7 @@ A countdown bomb with LCD Screen, keyboard and password to defuse. Inside the ma
 
 
 📄 License & Terms of Use / Termos de Uso
-Copyright (c) 2024 [AzureMasters]
+Copyright (c) 2026 [AzureMasters]
 
 
 English
